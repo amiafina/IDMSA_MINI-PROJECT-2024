@@ -1,4 +1,4 @@
-# SPKA – Sistem Pengurusan Kehadiran Asrama
+# IDMSA -  INFO DEWAN MAKAN SERI ANGGUN
 A web-based system to manage dining hall information for hostel students.
 
 ## Features
